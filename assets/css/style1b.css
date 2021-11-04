@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+} 
+
+main {
+    justify-content: center;
+    padding-bottom: 200px;
+}
+
+.content {
+    text-align: center;
+    font-size: 20px;
+}
+
+.click_container {
+      padding: 80px;
+  }
+
+  #hideaway {
+      padding: 80px;
+ }
+  
+  
+  p {
+    font-size: 17px;
+    color: #555;
+  }

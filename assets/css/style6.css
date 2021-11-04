@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+} 
+
+main {
+    justify-content: center;
+    padding-bottom: 300px;
+}
+
+.main-child {
+    top: 0px;
+}
+
+.content {
+    /* text-align: center; */
+    font-size: 20px;
+    /* top: 0px; */
+    /* background: rgb(214, 214, 214); */
+}
+
+/* .content-2 {
+    padding: 50px;
+} */
+
+p {
+    font-size: 17px;
+    /* text-align: center; */
+    color: #555;
+  }
