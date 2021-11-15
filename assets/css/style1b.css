@@ -7,12 +7,13 @@
 
 main {
     justify-content: center;
-    padding-bottom: 200px;
+    padding-bottom: 380px;
 }
 
 .content {
     text-align: center;
     font-size: 20px;
+    padding: 100px;
 }
 
 .click_container {
@@ -24,7 +25,7 @@ main {
  }
   
   
-  p {
+ .footer-child {
     font-size: 17px;
     color: #555;
   }

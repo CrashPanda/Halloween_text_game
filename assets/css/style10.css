@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+} 
+
+main {
+    justify-content: center;
+    padding-bottom: 300px;
+}
+
+.main-child {
+    top: 0px;
+}
+
+.content {
+    /* text-align: center; */
+    font-size: 20px;
+    /* top: 0px; */
+    /* background: rgb(214, 214, 214); */
+}
+
+/* .content-2 {
+    padding: 50px;
+} */
+
+p {
+    font-size: 17px;
+    /* text-align: center; */
+    color: #555;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* e.g 1 */
+/* .tab div {
+    display: none;
+}
+
+.tab div:target {
+    display: block;
+  
+} */
+
+/* ------------- */
+
+/* e.g 2 */
+/* .clicker {
+    width:100px;
+    height:100px;
+    background-color:blue;
+    outline:none;
+    cursor:pointer;
+    }
+    
+    .hiddendiv{
+    display:none;
+    height:200px;
+    background-color:green;
+    }
+    
+    .clicker:focus + .hiddendiv{
+    display:block;
+    } */
+
+/* ------------- */
+
+/* e.g 3 */
+    /* element.style {
+        display: inline;
+    }
+    
+    element.style {
+        display: inline;
+    }
+    .revision-span:not(.revision-span-out) {
+        transition: 1s;
+        -webkit-transition: 1s;
+    }
+    
+    a.internalLink, a.externalLink {
+        text-decoration: underline;
+        color: #474747;
+    }
+    
+    a.internalLink, a.externalLink, a.back, a.return, [data-passage], .menu div {
+        cursor: pointer;
+    }
+    
+    .passage a {
+        color: #4d6ad8;
+    }
+    
+    a {
+        color: #000;
+    }
+    
+    style attribute {
+        visibility: visible;
+    }
+    
+    body {
+        margin: 80px 0;
+        padding: 0;
+        background: #fff;
+        color: #000;
+        font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif;
+        font-size: 22px;
+        line-height: 1.4em;
+        background-color: 0.5s ease;
+    } */
+
+    /* ------------- */
+    /* e.g 4 */
+/* 
+    a .hidden { 
+        visibility:hidden; 
+    }
+
+    a:visited .hidden { 
+        visibility:visible; 
+    } */
+    
+    /* ------------- */
+    /* e.g 7 */
+/* 
+       .container {
+        width: 800px;
+        height: 200px;
+        border: 2px solid black;
+    }
+      
+    .left {
+        float: left;
+        margin: 10px;
+    }
+    
+    #geek1 {
+        width: 200px;
+        height: 55px;
+        background-color: yellow;
+    }
+
+    .right {
+        float: left;
+        margin: 10px;
+    } */
+
+  /* ------------- */
+    /* e.g 8 */
+
+    /* .container {
+        height: 80px;
+        width: 250px;
+        border: 2px solid black;
+        background-color: green;
+        color: white; */

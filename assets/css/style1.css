@@ -23,7 +23,7 @@ h1 {
       padding-top: 30px;
   }
 
-#hideaway {
+#hideaway1 {
     padding-top: 100px;
 }
 
@@ -31,7 +31,7 @@ h1 {
     padding-top: 100px;
 }
   
-p {
+.footer-child {
     font-size: 17px;
     color: #555;
 }

@@ -24,7 +24,7 @@ header, main, footer {
 }
 
 header {
-  background: rgb(243, 243, 243);
+  /* background: rgb(243, 243, 243); */
   position: fixed;
   top: 0;
   height: 300px;
@@ -33,14 +33,14 @@ header {
 }
 
 main {
-  background: rgb(214, 214, 214);
+  /* background: rgb(214, 214, 214); */
   height: 100%;
 }
 
 /* FOOTER */
 
 footer {
-  background: rgb(185, 185, 185);
+  /* background: rgb(185, 185, 185); */
   position: fixed;
   bottom: 0;
   height: 200px;
