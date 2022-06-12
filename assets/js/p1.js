@@ -3,7 +3,7 @@ function hideaway1() {
 }
 
 function hideaway2() {
-    document.getElementById('hideaway2').style.display='block';
+    document.getElementById('hideaway2').style.visibility='visible';
 }
 
 
